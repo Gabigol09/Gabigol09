@@ -58,6 +58,3 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabigol09&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabigol09&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" /></p>
