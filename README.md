@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Eufrásio</h1>
+<h1 align="center">Gabriel Henrique</h1>
 <h3 align="center">Analista de Suporte N2 · automatizo suporte com código</h3>
 
 <p align="center">
